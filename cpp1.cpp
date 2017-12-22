@@ -1,3 +1,16 @@
+/*
+
+Right, so the goal here was to have the user input an array and then select an option from 1-3, and
+depending on the selected option the sum of the elements would be calculated using either for or while loops, or recursion.
+Code::Blocks showed one error in this code: "variable or field 'tusker' declared void" (line 14 below)
+
+I think that my code is technically correct and the problem is being caused because of the godamn compiler. Apparently no
+two C++ compilers are really alike and depending on which one you're using, you might wanna make some changes so some or
+the other aspect of your code. This means C++ is just a bad language to use to get back into the programming mix. I think
+that I should focus on Python, JS, PHP, et al.
+
+*/
+
 #include <iostream>
 using namespace std;
 int c=0;
